@@ -133,4 +133,4 @@ pause
 
 💡 Dica: você pode usar o Agendador de Tarefas do Windows para rodar o `.bat` automaticamente a cada X minutos.
 
----
+---# Visao
