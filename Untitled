@@ -1,0 +1,9 @@
+# 1. Adicionar as mudanças (incluindo o novo wpp.py e README.md)
+git add .
+
+# 2. Criar o commit explicativo
+git commit -m "🚀 Refatoração: Separação de API (app.py) e Motor de Visão (wpp.py)"
+
+# 3. Enviar para o GitHub
+# Como você já configurou o token antes, ele deve ir direto:
+git push origin main
