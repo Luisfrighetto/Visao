@@ -1,0 +1,7 @@
+git clone https://github.com/Luisfrighetto/Visao.git
+
+mv ~/wpp/* ~/planeta/
+cp -r Planeta/* Visao/
+
+source nome_do_ambiente/bin/activate
+deactivate

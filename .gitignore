@@ -1,0 +1,23 @@
+# Ambientes Virtuais
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Pastas de Dados e Pesadas (Vídeos e Resultados)
+Videos/
+videos/
+Results/
+results/
+uploads/
+Pictures/
+
+# Extensões de mídia
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
